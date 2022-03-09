@@ -1,0 +1,9 @@
+{ 
+    "_id" : ObjectId("609882274e330f30ec2fa6a0"), 
+    "refarticle" : ObjectId("609879c57377ab21903b092d"), 
+    "refcommande" : ObjectId("60987cbfc05eb51c340ac468"), 
+    "qte_ach" : NumberInt(10), 
+    "remise" : NumberInt(0), 
+    "tot_ligne" : NumberInt(2500), 
+    "__v" : NumberInt(0)
+}

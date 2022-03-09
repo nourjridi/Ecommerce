@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("61631c6df44f5126d5597f44"), 
+    "nomscategorie" : "Electronique", 
+    "categorieID" : ObjectId("609a83b80c806f32e04bb484"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61631ccfde362516dfc7b29f"), 
+    "nomscategorie" : "Téléphone", 
+    "imagescat" : "c:/sqdsq", 
+    "categorieID" : ObjectId("609e7b4da1f6de3754461b1d"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("616441702459f5bb368da298"), 
+    "nomscategorie" : "Hommes", 
+    "imagescat" : "c:/fghss", 
+    "categorieID" : ObjectId("60a16051c1b48f332c9740c2"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61719920ff94419de547e77b"), 
+    "nomscategorie" : "Aliments", 
+    "imagescat" : "jjk", 
+    "categorieID" : ObjectId("60a160adc1b48f332c9740c5"), 
+    "__v" : NumberInt(0)
+}
